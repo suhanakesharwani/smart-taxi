@@ -9,16 +9,14 @@ This project uses reinforcement learning (Q-learning) to train a taxi agent in t
 
 ## 🖼️ Screenshots
 
-### Initial State
+### Final Demo - Start
+
 ![SmartTaxi1](screenshots/smartTaxi1.png)
 
-### During Training
 ![SmartTaxi2](screenshots/smartTaxi2.png)
 
-### Evaluation Episode
 ![SmartTaxi3](screenshots/smartTaxi3.png)
 
-### Final Demo - Start
 ![SmartTaxi4](screenshots/smartTaxi4.png)
 
 ### Final Demo - Dropoff
