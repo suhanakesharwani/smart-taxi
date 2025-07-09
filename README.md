@@ -7,6 +7,24 @@ This project uses reinforcement learning (Q-learning) to train a taxi agent in t
 - Trains a Q-table over 10,000 episodes
 - Evaluates performance using average penalties and steps
 
+## 🖼️ Screenshots
+
+### Initial State
+![SmartTaxi1](screenshots/smartTaxi1.png)
+
+### During Training
+![SmartTaxi2](screenshots/smartTaxi2.png)
+
+### Evaluation Episode
+![SmartTaxi3](screenshots/smartTaxi3.png)
+
+### Final Demo - Start
+![SmartTaxi4](screenshots/smartTaxi4.png)
+
+### Final Demo - Dropoff
+![SmartTaxi5](screenshots/smartTaxi5.png)
+
+
 ## 📈 Results
 - Learned to complete episodes with minimal penalties
 - Average timesteps: 12.4 | Penalties: 0.2
